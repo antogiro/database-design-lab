@@ -25,6 +25,6 @@ Dieses Repository demonstriert mechanisch und messbar, warum naives Datenbank-De
 Stellen Sie sicher, dass Python installiert ist. Klonen Sie das Repository und installieren Sie die Abhängigkeiten:
 
 ```bash
-git clone https://github.com/DEIN_GITHUB_NAME/database-design-lab.git
+git clone https://github.com/antogiro/database-design-lab.git
 cd database-design-lab
 pip install -r requirements.txt
